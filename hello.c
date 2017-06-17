@@ -9,6 +9,7 @@ int main()
 	scanf("%s",&var);
 	printf("%s primer usuario", var);
 	printf("Ooops, un cambio nuevo...");
+        printf("otro mas :)");   
 	system ("Pause>nul");
 	return 0;
 }

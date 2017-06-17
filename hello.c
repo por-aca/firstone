@@ -5,9 +5,9 @@ int main()
 {
 	char var[3];
 	
-	printf("cuales son tus iniciales:" );
+	printf("cuales son tus iniciales y tu nombre completo:" );
 	scanf("%s",&var);
-	printf("%s", var);
+	printf("%s primer usuario", var);
 	system ("Pause>nul");
 	return 0;
 }
